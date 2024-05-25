@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying Computer Science at Florida Atlantic University in Boca Raton<br>I'm currently learning machine learning technology and applications<br>I love programming, being outdoors, and fitness
+:mortar_board: Studying Computer Science at Florida Atlantic University in Boca Raton<br>:book: I'm currently learning machine learning technology and applications<br>:zap: I love programming, being outdoors, and fitness
 
 
 ## 🌐 Socials:
